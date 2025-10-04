@@ -11,5 +11,5 @@ It connects with a MySQL database to handle banking operations such as managing 
 
  Admin Features:
 - Authenticate using admin credentials  
-- Manage customer accounts  
+- Manage customer accounts
 - View all transactions  
